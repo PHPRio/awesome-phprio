@@ -1,7 +1,7 @@
 # awesome-phprio
 Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incrivelmente impressionantes que envolvem a Comunidade PHPRio
 
-##Índice
+## Índice
 * [Blogs](#blogs)
 * [Open Source](#open-source)
 * [Projetos](#projetos)
@@ -10,12 +10,12 @@ Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incri
 
 ## Blogs
 *Gostamos de aprender e principalmente compartilhar o que descobrimos:*
-* [Raphael de Almeida] (https://github.com/raphaeldealmeida) - http://raphaeldealmeida.net
-* [Jonathas Ribeiro] (http://jonathas.com) - http://jonathas.com
+* [Raphael de Almeida](https://github.com/raphaeldealmeida) - http://raphaeldealmeida.net
+* [Jonathas Ribeiro](http://jonathas.com) - http://jonathas.com
 
 ## Open Source
 *Nós apoiamos e contribuímos para os seguintes projetos open source:*
-* :( not yet
+* [Ardent](github.com/laravelbook/ardent) - ORM limpo e moderno, standalone ou como componente Laravel
 
 ## Projetos
 *Acreditamos em nossos sonhos e criando projetos:*
