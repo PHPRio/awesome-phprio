@@ -20,7 +20,7 @@ Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incri
 * [Faker](https://github.com/fzaninotto/Faker) - Gerador de dados aleatórios, para testes. Contém um provider específico com gerador brasileiro de cartões de crédito e números de telefone.
 
 ## Projetos
-*Acreditamos em nossos sonhos e criando projetos:*
+*Acreditamos em nossos sonhos e criamos projetos:*
 * [TheConf](http://conf.igorsantos.com.br) - Congressos e Eventos Inteligentes (participando do *Ideation Rio*)
 * [ProtoBoard](http://protoboard.igorsantos.com.br) - Organize suas hipóteses de negócio
 
