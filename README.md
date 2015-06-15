@@ -15,7 +15,8 @@ Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incri
 
 ## Open Source
 *Nós apoiamos e contribuímos para os seguintes projetos open source:*
-* [Ardent](github.com/laravelbook/ardent) - ORM limpo e moderno, standalone ou como componente Laravel
+* [Ardent](https://github.com/laravelbook/ardent) - ORM limpo e moderno, standalone ou como componente Laravel
+* [Faker](https://github.com/fzaninotto/Faker) - Library geradora de dados aleatórios, para testes
 
 ## Projetos
 *Acreditamos em nossos sonhos e criando projetos:*
