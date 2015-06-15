@@ -21,9 +21,9 @@ Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incri
 
 ## Projetos
 *Acreditamos em nossos sonhos e criando projetos:*
-* :( not yet
+* [TheConf](http://conf.igorsantos.com.br) - Congressos e Eventos Inteligentes (participando do *Ideation Rio*)
+* [ProtoBoard](http://protoboard.igorsantos.com.br) - Organize suas hipóteses de negócio
 
 ## Empresas
 *Quando a coisa fica séria abrimos as seguintes empresas:*
-* [TheConf](http://conf.igorsantos.com.br) - Congressos e Eventos Inteligentes (participando do *Ideation Rio*)
-* [ProtoBoard](http://protoboard.igorsantos.com.br) - Organize suas hipóteses de negócio
+* :( not yet
