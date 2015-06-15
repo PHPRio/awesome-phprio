@@ -1,7 +1,7 @@
 # awesome-phprio
-Uma lista de Blogs, referÃªncias tÃ©cnicas, bibliotecas, recursos e coisas incrivelmente impressionantes que envolvem a Comunidade PHPRio
+Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incrivelmente impressionantes que envolvem a Comunidade PHPRio
 
-##Ã?ndice
+##Índice
 * [Blogs](#blogs)
 * [Open Source](#open-source)
 * [Projetos](#projetos)
@@ -14,7 +14,7 @@ Uma lista de Blogs, referÃªncias tÃ©cnicas, bibliotecas, recursos e coisas incri
 * [Igor De Paula] (https://github.com/igordepaula) - http://blog.adminweb.com.br
 
 ## Open Source
-*NÃ³s apoiamos e contribuÃ­mos para os seguintes projetos open source:*
+*Nós apoiamos e contribuí­mos para os seguintes projetos open source:*
 * [PHPEx] (https://github.com/phpex)
 
 ## Projetos
@@ -22,5 +22,5 @@ Uma lista de Blogs, referÃªncias tÃ©cnicas, bibliotecas, recursos e coisas incri
 * :( not yet
 
 ## Empresas
-*Quando a coisa fica sÃ©ria abrimos as seguintes empresas:*
+*Quando a coisa fica séria abrimos as seguintes empresas:*
 * :( not yet
