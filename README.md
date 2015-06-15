@@ -11,6 +11,7 @@ Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incri
 ## Blogs
 *Gostamos de aprender e principalmente compartilhar o que descobrimos:*
 * [Raphael de Almeida] (https://github.com/raphaeldealmeida) - http://raphaeldealmeida.net
+* [Jonathas Ribeiro] (http://jonathas.com) - http://jonathas.com
 
 ## Open Source
 *Nós apoiamos e contribuímos para os seguintes projetos open source:*
