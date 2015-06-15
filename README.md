@@ -1,7 +1,7 @@
 # awesome-phprio
 Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incrivelmente impressionantes que envolvem a Comunidade PHPRio
 
-##Índice
+##�?ndice
 * [Blogs](#blogs)
 * [Open Source](#open-source)
 * [Projetos](#projetos)
@@ -11,6 +11,7 @@ Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incri
 ## Blogs
 *Gostamos de aprender e principalmente compartilhar o que descobrimos:*
 * [Raphael de Almeida] (https://github.com/raphaeldealmeida) - http://raphaeldealmeida.net
+* [Igor De Paula] (https://github.com/igordepaula) - http://blog.adminweb.com.br
 
 ## Open Source
 *Nós apoiamos e contribuímos para os seguintes projetos open source:*
