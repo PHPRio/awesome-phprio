@@ -15,7 +15,7 @@ Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incri
 
 ## Open Source
 *Nós apoiamos e contribuímos para os seguintes projetos open source:*
-* :( not yet
+* [PHPEx] (https://github.com/phpex)
 
 ## Projetos
 *Acreditamos em nossos sonhos e criando projetos:*
