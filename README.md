@@ -4,6 +4,8 @@ Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incri
 ##Índice
 * [Blogs](#blogs)
 * [Open Source](#open-source)
+* [Projetos](#projetos)
+* [Empresas](#empresas)
 
 
 ## Blogs
@@ -14,7 +16,7 @@ Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incri
 *Nós apoiamos e contribuímos para os seguintes projetos open source:*
 * :( not yet
 
-## Empresas
+## Projetos
 *Acreditamos em nossos sonhos e criando projetos:*
 * :( not yet
 
